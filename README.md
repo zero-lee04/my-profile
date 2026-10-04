@@ -1,3 +1,3 @@
 # 자기소개
 소개: Git을 처음 배웁니다.
-문의: team@exmaple.com
+문의: team@example.com
